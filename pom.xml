@@ -24,7 +24,6 @@
         <spring-cloud-dependencies.version>Hoxton.SR8</spring-cloud-dependencies.version>
         <spring-webmvc.version>5.2.10.RELEASE</spring-webmvc.version>
         <servlet-api.version>4.0.1</servlet-api.version>
-        <knife4j.version>2.0.3</knife4j.version>
 
         <mybatis-spring-boot-starter.version>2.1.2</mybatis-spring-boot-starter.version>
         <mapper-spring-boot-starter.version>2.1.5</mapper-spring-boot-starter.version>
